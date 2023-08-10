@@ -7,7 +7,7 @@
 - 📫 How to reach me: peterladenika@gmail.com
 - ⚡ Fun fact: I can speak three languages fluently: English, Code, and Sarcasm. And debugging sarcasm errors can be quite challenging! 😄🤖🙃
 
-=============================================================================================================================================================
+====================================================================================================
 
 ### Connect with me:
 
@@ -16,7 +16,7 @@
 <a href = "https://twitter.com/__peterr"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
-=============================================================================================================================================================
+====================================================================================================
 
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> &nbsp;
@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/> &nbsp;
 
-=============================================================================================================================================================
+====================================================================================================
 
 ### :fire: My Stats :
 
