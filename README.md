@@ -1,6 +1,6 @@
 ### Hi there, I'm Peter 👋
 ## I'm a Software Engineer
-- 🔭 I’m currently working with Angualar.
+- 🔭 I’m currently working with Angular.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on frontend projects
 - ✅ Q3 Goals: Contribute to Open Source Projects
