@@ -31,7 +31,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/> &nbsp;
+<img src="[https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg](https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png)" title="Tailwind" alt="Tailwind" width="40" height="40"/> &nbsp;
+
 
 ==================================================
 
